@@ -1,5 +1,3 @@
-<p align="center"><a href="https://fahmiarif.site" target="_blank"><img src="/public/img/banner.png" width="700" alt="Fahmi Arif"></a></p>
-
 ## Description
 
 This is a learning project from WPU about laravel. This project uses Laravel 9 and bootstrap 5 with CDN, this project aims to learn Laravel, blade template, eloquent, and others.
